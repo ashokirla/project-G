@@ -1,4 +1,4 @@
 # project-G
 Azure pipelines integration at its best
 
-This is Java web application deployed using Azure pipelines and Jenkins
+This is Java web application deployed using Azure pipelines
